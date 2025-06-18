@@ -1,0 +1,8 @@
+Tests Planned But Not Implemented
+
+- Test with floating point numbers
+- Test with Negative floating point numbers
+- Test with Missing parameters
+- Test with Extra parameters (More than 3)
+- Test with Extremely Large input values
+- Test with non alphanumeric input values
